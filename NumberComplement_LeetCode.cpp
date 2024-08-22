@@ -9,7 +9,7 @@ int main()
     bitset<32> bin(num);
     string a = bin.to_string();
     a.erase(0, a.find_first_not_of('0'));
-    cout<<a<<"\n";
+    cout << a << "\n";
     string b = "";
     for (int i = 0; i < a.length(); i++)
     {
@@ -17,13 +17,14 @@ int main()
         {
             b += '1';
         }
-        else{
-            b+= '0';
+        else
+        {
+            b += '0';
         }
     }
-    cout<<b<<"\n";
+    cout << b << "\n";
     bitset<32> reversa(b);
-    cout<<reversa<<"\n";
+    cout << reversa << "\n";
     int salida = static_cast<int>(reversa.to_ulong());
-    cout<<salida;
+    cout << salida;
 }
