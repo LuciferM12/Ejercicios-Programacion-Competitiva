@@ -1,12 +1,14 @@
 <h1 align="center">Ejercicios de Programación Competitiva</h1>
 <p>Ejercicios de OmegaUp y Leetcode.</p>
-<!--<hr>
+<hr>
 <h1 align="center">Tecnologías Utilizadas</h1>
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="Lua" title="Lua" width="40px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" title="Python" width="40px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="40px">
+  
 </div>
 <hr>
-<h1 align="center">Detalles del Proyecto</h1>
+<!--<h1 align="center">Detalles del Proyecto</h1>
 <p>El proyecto “Conquistador Colonial” consiste en una adaptación del juego de mesa clásico: Catan o Catan Universe orientado a dispositivos móviles pertenecientes al sistema operativo Android, fue desarrollado con la herramienta Solar2D para la generación de las interfaces y funcionalidades del juego. Está creado en el lenguaje Lua y es óptimo para 4 jugadores de manera local (Compartiendo el dispositivo). </p>
 <hr>
 <h1 align="center">Características Destacadas</h1>
