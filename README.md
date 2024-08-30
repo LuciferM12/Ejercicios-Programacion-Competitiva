@@ -8,9 +8,9 @@
   
 </div>
 <hr>
-<!--<h1 align="center">Detalles del Proyecto</h1>
-<p>El proyecto “Conquistador Colonial” consiste en una adaptación del juego de mesa clásico: Catan o Catan Universe orientado a dispositivos móviles pertenecientes al sistema operativo Android, fue desarrollado con la herramienta Solar2D para la generación de las interfaces y funcionalidades del juego. Está creado en el lenguaje Lua y es óptimo para 4 jugadores de manera local (Compartiendo el dispositivo). </p>
-<hr>
+<<h1 align="center">Detalles del Proyecto</h1>
+<p>El proyecto consiste en una compilación de los ejercicios que he resuelto para las plataformas de LeetCode y de OmegaUp, en los que se encuentran diversos ejercicios de programación competitiva para medir el rendimiento de los programadores.  </p>
+<!--<hr>
 <h1 align="center">Características Destacadas</h1>
 <ul>
   <li><b>Sistema de Intercambio:</b> El juego permite que se intercambien los recursos entre los jugadores y con el banco para facilitar el avance de la partida.</li>
