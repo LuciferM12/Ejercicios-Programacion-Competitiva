@@ -8,7 +8,7 @@
   
 </div>
 <hr>
-<<h1 align="center">Detalles del Proyecto</h1>
+<h1 align="center">Detalles del Proyecto</h1>
 <p>El proyecto consiste en una compilación de los ejercicios que he resuelto para las plataformas de LeetCode y de OmegaUp, en los que se encuentran diversos ejercicios de programación competitiva para medir el rendimiento de los programadores.  </p>
 <!--<hr>
 <h1 align="center">Características Destacadas</h1>
