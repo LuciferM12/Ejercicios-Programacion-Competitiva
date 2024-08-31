@@ -1,5 +1,5 @@
 <h1 align="center">Ejercicios de Programación Competitiva</h1>
-<p>Ejercicios de OmegaUp y Leetcode.</p>
+<p>Ejercicios de OmegaUp y Leetcode realizados con c++ y python.</p>
 <hr>
 <h1 align="center">Tecnologías Utilizadas</h1>
 <div align="center">
