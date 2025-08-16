@@ -1,0 +1,6 @@
+nums = input()
+numList = list(map(int, nums.split()))
+numList.sort()
+print(numList[0], end=" ")
+print(numList[-1], end=" ")
+print(numList[-1] - numList[0])
